@@ -1,5 +1,4 @@
-function  mostrarAlerta(event) {
-    event.stopPropagation();
+function  mostrarAlerta() {
     alert("Hola!")
 }
 function  mostrarAlertaDiv() {
